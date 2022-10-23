@@ -1,0 +1,6 @@
+//Không được xóa folder Model trong thư mục Note vì các file html được chương trình sinh ra sẽ được copy từ file htmlModel.html trong thư mục folder và link tới file style.css ở folder Model để trang trí
+
+//Chương trình được viết bằng Java biên dịch bằng Jdk 18.0.2 nên cần cài Jre hoặc Jdk để chạy các ứng dụng bằng Java
+
+
+//Có thể sử dụng ứng dụng OneDrive để đồng bộ file với điện thoại để có thể mở ra ôn lại bất kì lúc nào
